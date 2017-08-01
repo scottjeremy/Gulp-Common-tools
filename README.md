@@ -4,11 +4,11 @@
 
 在这里列举我经常使用的Gulp自动化常用构建工具，方便以后构建工程时所需。一直在追赶，从未敢怠慢！
 
-## 阅读下文前，我建议先阅读我以下两篇文章：
+## 阅读下文前，建议先阅读以下两篇文章：
 
 ### gulp是基于NodeJS和NPM，具体安装教程在[这里](http://www.cnblogs.com/scottjeremy/p/6993480.html)
 
-### 我怎么使用Gulp？一篇文章学会Gulp：[Getting started with Gulp（中文）](http://www.cnblogs.com/scottjeremy/p/7264056.html)
+### 怎么使用Gulp？一篇文章学会Gulp：[Getting started with Gulp（中文）](http://www.cnblogs.com/scottjeremy/p/7264056.html)
 
 ## 具体功能：
 * 默认任务（Hello World！）
